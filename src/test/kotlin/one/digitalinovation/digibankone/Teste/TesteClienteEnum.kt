@@ -1,4 +1,4 @@
-package Teste
+package one.digitalinovation.digibankone.Teste
 
 import one.digitalinovation.digibankone.ClienteTipo
 
